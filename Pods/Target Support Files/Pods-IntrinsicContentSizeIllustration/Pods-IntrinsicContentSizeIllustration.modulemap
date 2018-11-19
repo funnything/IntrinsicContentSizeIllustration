@@ -1,0 +1,6 @@
+framework module Pods_IntrinsicContentSizeIllustration {
+  umbrella header "Pods-IntrinsicContentSizeIllustration-umbrella.h"
+
+  export *
+  module * { export * }
+}
